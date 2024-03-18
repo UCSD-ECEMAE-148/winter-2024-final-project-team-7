@@ -66,7 +66,7 @@ The robot utilizes the ROS2 Navigation 2 stack and integrating LiDAR for SLAM (S
 ## Challenges
 * Nav2 Stack is a complex but useful system for developing an autonomous robot.
 * Futher Actions:
-  * PointCloud Dyanmic Obstacle Detection:  
+  * PointCloud Dynamic Obstacle Detection:  
     - Develop an algorithm to mark down position of obstacle group, and add them to Nav2 obstacle layer
   * Nav2 Path Planning & ROS 2 Control:  
     - Path Planning Server Development, and communication to ROS 2 Control System
