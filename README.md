@@ -294,7 +294,7 @@ source install/setup.bash
       <b>Clone</b> this repository, 
 <pre>
 cd /home/projects/ros2_ws/src
-git clone https://github.com/WinstonHChou/winter-2024-final-project-team-7.git
+git clone --recurse-submodules https://github.com/WinstonHChou/winter-2024-final-project-team-7.git
 cd winter-2024-final-project-team-7/
 </pre>
       There a <code>Replace_to_ucsd_robocar_nav2</code> folder, which includes several files you'd like to replace/place to <code>ucsd_robocar_nav2_pkg</code><br>
